@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ambients-utils": "^1.2.0",
+    "ambients-view": "0.0.5",
+    "babel-polyfill": "*",
+    "eventss": "^1.0.3",
+    "rinss": "^1.2.0",
+    "vue": "*",
+    "vue-material": "beta"
+  },
+  "devDependencies": {
+    "@types/node": "^10.1.2",
+    "@types/vue": "*",
+    "css-loader": "*",
+    "style-loader": "*",
+    "ts-loader": "*",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "*",
+    "typescript": "*"
+  },
+  "false": {}
+}
